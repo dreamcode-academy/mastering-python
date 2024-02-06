@@ -1,3 +1,4 @@
+![MasteringPythonBanner](https://github.com/dreamcode-academy/mastering-python/assets/61909582/2cc2efda-832c-426d-9314-c71a23c3d5a9)
 
 # Mastering Python
 
