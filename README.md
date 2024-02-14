@@ -8,13 +8,11 @@ Welcome to the "Mastering Python" course repository! This course is designed to 
 
 The course is divided into  10 modules, each focusing on different aspects of Python programming. Here's a quick overview of what each module covers:
 
-- **Module  1: Python Fundamentals Part  1**
-  - Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
-  - ![PythonIcon](URL_TO_PYTHON_ICON)
+- **Module 1: Python Fundamentals Part 1**
+ - Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
 
-- **Module  2: Python Fundamentals Part  2**
-  - Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
-  - ![DataStructuresIcon](URL_TO_DATASTRUCTURES_ICON)
+- **Module 2: Python Fundamentals Part 2**
+ - Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
 
 - **Module 3: Improving Data Handling and Code Flow in Python**
  - Generators, comprehensions, map and filter, unpacking, context managers, regular expressions, `__name__ == '__main__'`, date and time, advanced data structures.
