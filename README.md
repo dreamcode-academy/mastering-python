@@ -1,18 +1,20 @@
-![MasteringPythonBanner](https://github.com/dreamcode-academy/mastering-python/assets/61909582/2cc2efda-832c-426d-9314-c71a23c3d5a9)
-
 # Mastering Python
+
+![MasteringPythonBanner](https://github.com/dreamcode-academy/mastering-python/assets/61909582/2cc2efda-832c-426d-9314-c71a23c3d5a9)
 
 Welcome to the "Mastering Python" course repository! This course is designed to take you on a journey through Python programming, from the fundamentals to advanced topics, including web development with Flask and data science basics. Whether you're a beginner looking to get started or an experienced programmer aiming to deepen your Python knowledge, this course has something for you.
 
 ## Course Structure
 
-The course is divided into 10 modules, each focusing on different aspects of Python programming. Here's a quick overview of what each module covers:
+The course is divided into  10 modules, each focusing on different aspects of Python programming. Here's a quick overview of what each module covers:
 
-- **Module 1: Python Fundamentals Part 1**
- - Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
+- **Module  1: Python Fundamentals Part  1**
+  - Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
+  - ![PythonIcon](URL_TO_PYTHON_ICON)
 
-- **Module 2: Python Fundamentals Part 2**
- - Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
+- **Module  2: Python Fundamentals Part  2**
+  - Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
+  - ![DataStructuresIcon](URL_TO_DATASTRUCTURES_ICON)
 
 - **Module 3: Improving Data Handling and Code Flow in Python**
  - Generators, comprehensions, map and filter, unpacking, context managers, regular expressions, `__name__ == '__main__'`, date and time, advanced data structures.
@@ -55,16 +57,11 @@ To get started with this course:
 2. **Navigate to the Module**: Each module is contained in its own folder.
 3. **Follow Along**: Open the lesson folders in sequence to access the scripts and projects.
 
-## Prerequisites
-
-- Basic knowledge of programming concepts.
-- Python installed on your computer (version 3.x recommended).
-- An IDE or text editor of your choice.
 
 ## How to Use This Repository
 
 - Each module folder contains subfolders for each lesson, including scripts, notes, and assignments.
-- Start with Module 1 and progress through the modules sequentially.
+- Start with Module  1 and progress through the modules sequentially.
 - Practice exercises and projects are provided to help reinforce your learning.
 
 ## Contributing
