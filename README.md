@@ -4,8 +4,7 @@
 
 Welcome to the "Mastering Python" course repository! This course is designed to take you on a journey through Python programming, from the fundamentals to advanced topics, including web development with Flask and data science basics. Whether you're a beginner looking to get started or an experienced programmer aiming to deepen your Python knowledge, this course has something for you.
 
-# Contact Us!
-[![WebPage URL](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg)](https://www.dreamcode.io/) [![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtube.com/your-youtube-channel)
+[![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
 
 ## Course Structure
 
@@ -40,14 +39,6 @@ The course is divided into  10 modules, each focusing on different aspects of Py
 
 - **Module 10: Introduction to Web Development with Flask**
  - Flask setup, HTTP methods, routing, templates, forms, RESTful concepts, database integration, and deployment basics.
-
-## Getting Started
-
-To get started with this course:
-
-1. **Clone the Repository**: `git clone <repository-url>`
-2. **Navigate to the Module**: Each module is contained in its own folder.
-3. **Follow Along**: Open the lesson folders in sequence to access the scripts and projects.
 
 
 ## Getting Started
@@ -84,7 +75,9 @@ Happy coding, and enjoy your journey through mastering Python!
 
 ## Connect with Us
 
-Stay connected with us and the community. Follow us on Social Media for the latest updates and discussions:
+[![WebPage URL](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg)](https://www.dreamcode.io/) 
+
+[![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtube.com/your-youtube-channel)
 
 
 
