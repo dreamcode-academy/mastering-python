@@ -11,6 +11,7 @@ Welcome to the "Mastering Python" course repository! This course is designed to 
 The course is divided into  10 modules, each focusing on different aspects of Python programming. Here's a quick overview of what each module covers:
 
 - [**Module 1: Python Fundamentals Part 1**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%201)
+
  Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
 
 - **Module 2: Python Fundamentals Part 2**
