@@ -4,7 +4,7 @@
 
 Welcome to the "Mastering Python" course repository! This course is designed to take you on a journey through Python programming, from the fundamentals to advanced topics, including web development with Flask and data science basics. Whether you're a beginner looking to get started or an experienced programmer aiming to deepen your Python knowledge, this course has something for you.
 
-![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Mongo Logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Mongo Logo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite Logo](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Conda Logo](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## Course Structure
 
