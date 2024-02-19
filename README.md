@@ -12,7 +12,7 @@ The course is divided into  10 modules, each focusing on different aspects of Py
 
 - [**Module 1: Python Fundamentals Part 1**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%201)
 
- Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
+  Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
 
 - **Module 2: Python Fundamentals Part 2**
  Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
