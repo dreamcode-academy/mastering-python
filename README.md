@@ -4,6 +4,10 @@
 
 Welcome to the "Mastering Python" course repository! This course is designed to take you on a journey through Python programming, from the fundamentals to advanced topics, including web development with Flask and data science basics. Whether you're a beginner looking to get started or an experienced programmer aiming to deepen your Python knowledge, this course has something for you.
 
+# Contact Us!
+- ![WebPage URL]([https://img.icons8.com/fluent/48/000000/linkedin.png](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg)) [Visit our Web Page](https://linkedin.com/in/your-linkedin)
+- ![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png) [Subscribe on YouTube](https://youtube.com/your-youtube-channel)
+
 ## Course Structure
 
 The course is divided into  10 modules, each focusing on different aspects of Python programming. Here's a quick overview of what each module covers:
@@ -78,17 +82,10 @@ Thank you to all contributors and students participating in this course. Your fe
 
 Happy coding, and enjoy your journey through mastering Python!
 
-## Badges
-
-Add badges from shields.io to show off the state of your project, such as build status, test coverage, etc. Here are a few examples:
-
-![GitHub Stars](https://img.shields.io/github/stars/your-repository?style=social) ![Forks](https://img.shields.io/github/forks/your-repository?style=social) ![Contributors](https://img.shields.io/github/contributors/your-repository)
 
 ## Connect with Us
 
 Stay connected with us and the community. Follow us on Social Media for the latest updates and discussions:
 
-- ![Twitter URL](https://img.icons8.com/fluent/48/000000/twitter.png) [Follow us on Twitter](https://twitter.com/your-twitter)
-- ![LinkedIn URL](https://img.icons8.com/fluent/48/000000/linkedin.png) [Connect on LinkedIn](https://linkedin.com/in/your-linkedin)
-- ![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png) [Subscribe on YouTube](https://youtube.com/your-youtube-channel)
+
 
