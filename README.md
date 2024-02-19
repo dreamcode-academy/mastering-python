@@ -8,8 +8,7 @@ Welcome to the "Mastering Python" course repository! This course is designed to 
 ![WebPage URL](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg) 
 [Visit our Web Page](https://www.dreamcode.io/)
 
-![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png) 
-[Subscribe on YouTube](https://youtube.com/your-youtube-channel)
+[![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png)](https://youtube.com/your-youtube-channel)
 
 ## Course Structure
 
