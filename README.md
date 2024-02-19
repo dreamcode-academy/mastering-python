@@ -5,8 +5,11 @@
 Welcome to the "Mastering Python" course repository! This course is designed to take you on a journey through Python programming, from the fundamentals to advanced topics, including web development with Flask and data science basics. Whether you're a beginner looking to get started or an experienced programmer aiming to deepen your Python knowledge, this course has something for you.
 
 # Contact Us!
-![WebPage URL](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg) [Visit our Web Page](https://www.dreamcode.io/)
-![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png) [Subscribe on YouTube](https://youtube.com/your-youtube-channel)
+![WebPage URL](https://uploads-ssl.webflow.com/5e68fbd416b15abbebfc4b33/5f5fd942475eb561b033574e_Logo.svg) 
+[Visit our Web Page](https://www.dreamcode.io/)
+
+![YouTube URL](https://img.icons8.com/color/48/000000/youtube-play.png) 
+[Subscribe on YouTube](https://youtube.com/your-youtube-channel)
 
 ## Course Structure
 
