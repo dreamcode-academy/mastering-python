@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Car - Car Sales App{% endblock %}
+
+{% block header %}Add a New Car{% endblock %}
+
+{% block content %}
+    <form method="post" action="/add-car">
+        {{ form.hidden_tag() }}
+        <label for="make">Car Make:</label>
+        {{ form.make(size=30) }} <br>
+        <label for="model">Car Model:</label>
+        {{ form.model(size=30) }} <br>
+        <label for="year">Year:</label>
+        {{ form.year(size=4) }} <br>
+        {{ form.submit() }} 
+    </form>
+{% endblock %}

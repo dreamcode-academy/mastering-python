@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}View Cars - Car Sales App{% endblock %}
+
+{% block header %}View Cars{% endblock %}
+
+{% block content %}
+{% if cars %}
+<ul>
+    {% for car in cars %}
+        <li>{{ car.make }} {{ car.model }} - {{ car.year }}</li>
+    {% endfor %}
+</ul>
+
+{% endif %}
+{% endblock %}
