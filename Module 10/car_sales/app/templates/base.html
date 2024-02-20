@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{% block title %}Car Sales App{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    </head>
+    <body>
+        <header>
+            <h1>{% block header %}Car sales App{% endblock %}</h1>
+            <nav>
+                <a href="/">Home</a> |
+                <a href="/view-cars">View Cars</a> |
+                <a href="/add-car">Add Car</a>
+            </nav>
+    
+        </header>
+        <main>
+            {% block content %}{% endblock %}
+        </main>
+        <footer>
+            <p>&copy; 2024 Car Sales App</p>
+        </footer>
+    
+    </body>
+</html>
