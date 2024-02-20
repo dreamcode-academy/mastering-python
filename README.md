@@ -15,30 +15,39 @@ The course is divided into  10 modules, each focusing on different aspects of Py
   Setup, variables, data types, basic operations, conditional statements, loops, functions, debugging, and project integration.
 
 - [**Module 2: Python Fundamentals Part 2**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%202)
+  
   Lists, operations with lists, dictionaries, sets, tuples, file handling, and exception handling.
 
 - [**Module 3: Improving Data Handling and Code Flow in Python**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%203)
+  
   Generators, comprehensions, map and filter, unpacking, context managers, regular expressions, `__name__ == '__main__'`, date and time, advanced data structures.
 
 - [**Module 4: Object-Oriented Programming**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%204)
+  
   OOP principles, constructors, encapsulation, inheritance, polymorphism, abstraction, method and operator overloading, static and class methods, and a practical OOP project.
 
 - [**Module 5: Python Environments and Package Management**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%205)
+  
   Python environments, virtualenv, venv, requirements files, pip, Anaconda, and best practices.
 
 - [**Module 6: Advanced Python**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%206)
+  
   Decorators, advanced regular expressions, multithreading, multiprocessing, args and kwargs, modules, method chaining, collections module, testing, and code refactoring.
 
 - [**Module 7: Introduction to Databases in Python**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%207)
+  
   Basics of databases, SQL, SQLite, CRUD operations.
 
 - [**Module 8: Advanced Database Management**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%208)
+  
   ORM with SQLAlchemy, model relationships, database migration, NoSQL databases, MongoDB, Redis, and cache management strategies.
 
 - [**Module 9: Introduction to Data Science**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%209)
+  
   Web scraping with Beautiful Soup, data manipulation with Pandas, data analysis with NumPy, and data visualization with Matplotlib.
 
 - [**Module 10: Introduction to Web Development with Flask**](https://github.com/dreamcode-academy/mastering-python/tree/module1/Module%2010)
+  
   Flask setup, HTTP methods, routing, templates, forms, RESTful concepts, database integration, and deployment basics.
 
 ## Getting Started
